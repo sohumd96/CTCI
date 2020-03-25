@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa31b8b6-60b0-4993-a6d3-5103ba714250" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZKnBXRhOfBXsszrSqJuekFrtdl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter1/Problem6" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter1/Problem6" />
+      <recent name="$PROJECT_DIR$/Chapter1/Problem5" />
+      <recent name="$PROJECT_DIR$/Chapter1/1.4" />
+      <recent name="$PROJECT_DIR$/Chapter1/Problem2" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_loop_detection.Test.test_loop_detection">
+    <configuration name="Unittests for test_intersection.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CTCI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2/Problem7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_intersection.Test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_intersection.Test.test_intersection" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CTCI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2/Problem7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_intersection.Test.test_intersection&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_loop_detection.Test.test_loop_detection" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CTCI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2/Problem8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_loop_detection.Test.test_loop_detection&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_sum_lists.Test.test_sum_lists" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CTCI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2/Problem5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_sum_lists.Test.test_sum_lists&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test-checkPermutation.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CTCI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter1/Problem2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Chapter1/Problem2/test-checkPermutation.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_loop_detection.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CTCI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2/Problem8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Chapter2/Problem8/test_loop_detection.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_loop_detection.Test.test_loop_detection" />
+        <item itemvalue="Python tests.Unittests in test_loop_detection.py" />
+        <item itemvalue="Python tests.Unittests for test_intersection.Test.test_intersection" />
+        <item itemvalue="Python tests.Unittests for test_intersection.Test" />
+        <item itemvalue="Python tests.Unittests for test_sum_lists.Test.test_sum_lists" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa31b8b6-60b0-4993-a6d3-5103ba714250" name="Default Changelist" comment="" />
+      <created>1584596517761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584596517761</updated>
+      <workItem from="1584596521156" duration="261000" />
+      <workItem from="1584596798774" duration="18359000" />
+      <workItem from="1584802210366" duration="19239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="636" y="177" width="638" height="760" key="#Unittests_for_test-checkPermutation.TestCheckPermutation" timestamp="1584759832572">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="636" y="177" width="638" height="760" key="#Unittests_for_test-checkPermutation.TestCheckPermutation.test_check_permutation" timestamp="1584763206132">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="636" y="177" width="638" height="760" key="#Unittests_for_test-checkPermutation.TestCheckPermutation.test_check_permutation/0.27.1920.1053@0.27.1920.1053" timestamp="1584763206132" />
+    <state x="636" y="177" width="638" height="760" key="#Unittests_for_test-checkPermutation.TestCheckPermutation/0.27.1920.1053@0.27.1920.1053" timestamp="1584759832572" />
+    <state x="636" y="177" width="638" height="760" key="#Unittests_for_test-checkPermutation.TestCheckPermutation_(1)" timestamp="1584759867881">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="636" y="177" width="638" height="760" key="#Unittests_for_test-checkPermutation.TestCheckPermutation_(1)/0.27.1920.1053@0.27.1920.1053" timestamp="1584759867881" />
+    <state x="636" y="177" width="638" height="760" key="#Unittests_for_test-isUnique.TestIsUnique" timestamp="1584597898499">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="865" y="209" width="638" height="760" key="#Unittests_for_test-isUnique.TestIsUnique.testIsUnique2" timestamp="1584597988281">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="865" y="209" width="638" height="760" key="#Unittests_for_test-isUnique.TestIsUnique.testIsUnique2/0.27.1920.1053@0.27.1920.1053" timestamp="1584597988281" />
+    <state x="636" y="177" width="638" height="760" key="#Unittests_for_test-isUnique.TestIsUnique/0.27.1920.1053@0.27.1920.1053" timestamp="1584597898499" />
+    <state x="883" y="369" width="591" height="446" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584597960430">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="883" y="369" width="591" height="446" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1584597960430" />
+    <state x="967" y="347" width="424" height="491" key="FileChooserDialogImpl" timestamp="1584763204093">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="967" y="347" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1584763204093" />
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1585114055049">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585114055049" />
+    <state width="1874" height="275" key="GridCell.Tab.0.center" timestamp="1585114055048">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585114055048" />
+    <state width="1874" height="275" key="GridCell.Tab.0.left" timestamp="1585114055048">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585114055048" />
+    <state width="1874" height="275" key="GridCell.Tab.0.right" timestamp="1585114055048">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585114055048" />
+    <state width="1874" height="340" key="GridCell.Tab.1.bottom" timestamp="1585112963817">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585112963817" />
+    <state width="1874" height="340" key="GridCell.Tab.1.center" timestamp="1585112963814">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585112963814" />
+    <state width="1874" height="340" key="GridCell.Tab.1.left" timestamp="1585112963813">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585112963813" />
+    <state width="1874" height="340" key="GridCell.Tab.1.right" timestamp="1585112963817">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585112963817" />
+    <state x="449" y="188" key="SettingsEditor" timestamp="1584596710468">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="188" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1584596710468" />
+    <state x="621" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1584802211894">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="621" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1584802211892" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_in_test_loop_detection_py.coverage" NAME="Unittests in test_loop_detection.py Coverage Results" MODIFIED="1585113963586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Problem8" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_checkPermutation_TestCheckPermutation_test_check_permutation.coverage" NAME="Unittests for test-checkPermutation.TestCheckPermutation.test_check_permutation Coverage Results" MODIFIED="1584763206167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Problem2" />
+    <SUITE FILE_PATH="coverage/CTCI$zero_matrix.coverage" NAME="zero_matrix Coverage Results" MODIFIED="1584775996138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Problem8" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_palindrome_Test_test_palindrome.coverage" NAME="Unittests for test_palindrome.Test.test_palindrome Coverage Results" MODIFIED="1585111314667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Problem6" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_in_test_urlify_py.coverage" NAME="Unittests in test_urlify.py Coverage Results" MODIFIED="1584762567810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Problem3" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_in_test_remove_dups_py.coverage" NAME="Unittests in test_remove_dups.py Coverage Results" MODIFIED="1584820923521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Problem1" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_checkPermutation_TestCheckPermutation__1_.coverage" NAME="Unittests for test-checkPermutation.TestCheckPermutation (1) Coverage Results" MODIFIED="1584759867900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Problem2" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_partition_Test_test_partition.coverage" NAME="Unittests for test_partition.Test.test_partition Coverage Results" MODIFIED="1585033910976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Problem4" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_delete_middle_Test_test_delete_middle.coverage" NAME="Unittests for test_delete_middle.Test.test_delete_middle Coverage Results" MODIFIED="1584824512368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Problem3" />
+    <SUITE FILE_PATH="coverage/CTCI$urlify.coverage" NAME="urlify Coverage Results" MODIFIED="1584759974441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/1.3" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_in_test_delete_middle_py.coverage" NAME="Unittests in test_delete_middle.py Coverage Results" MODIFIED="1584824436264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Problem3" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_in_test_string_rotation_py.coverage" NAME="Unittests in test_string_rotation.py Coverage Results" MODIFIED="1584777055917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Problem9" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_loop_detection_Test_test_loop_detection.coverage" NAME="Unittests for test_loop_detection.Test.test_loop_detection Coverage Results" MODIFIED="1585114055021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Problem8" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_isUnique_Test.coverage" NAME="Unittests for test_isUnique.Test Coverage Results" MODIFIED="1584598899600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Problem1" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_sum_lists_Test_test_sum_lists.coverage" NAME="Unittests for test_sum_lists.Test.test_sum_lists Coverage Results" MODIFIED="1585112435844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Problem5" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_isUnique_Test_test_is_unique1.coverage" NAME="Unittests for test_isUnique.Test.test_is_unique1 Coverage Results" MODIFIED="1584598148378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 1/Problem1" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_remove_dups_Test.coverage" NAME="Unittests for test_remove_dups.Test Coverage Results" MODIFIED="1584822125465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Problem1" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_in_test_rotate_matrix_py.coverage" NAME="Unittests in test_rotate_matrix.py Coverage Results" MODIFIED="1584772002338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Problem7" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_in_test_string_compress_py.coverage" NAME="Unittests in test_string_compress.py Coverage Results" MODIFIED="1584764269449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Problem6" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_checkPermutation_TestCheckPermutation.coverage" NAME="Unittests for test-checkPermutation.TestCheckPermutation Coverage Results" MODIFIED="1584759884757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Problem2" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_remove_dups_Test_test_remove_dups.coverage" NAME="Unittests for test_remove_dups.Test.test_remove_dups Coverage Results" MODIFIED="1584822038712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Problem1" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_in_test_sum_lists_py.coverage" NAME="Unittests in test_sum_lists.py Coverage Results" MODIFIED="1585110032152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Problem5" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_oneAway_Test_test_fun.coverage" NAME="Unittests for test_oneAway.Test.test_fun Coverage Results" MODIFIED="1584763884991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Problem5" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_intersection_Test_test_intersection.coverage" NAME="Unittests for test_intersection.Test.test_intersection Coverage Results" MODIFIED="1585112963777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Problem7" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_intersection_Test.coverage" NAME="Unittests for test_intersection.Test Coverage Results" MODIFIED="1585112510999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Problem7" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_isUnique_TestIsUnique_testIsUnique2.coverage" NAME="Unittests for test-isUnique.TestIsUnique.testIsUnique2 Coverage Results" MODIFIED="1584597988323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 1/Problem1" />
+    <SUITE FILE_PATH="coverage/CTCI$rotate_matrix.coverage" NAME="rotate_matrix Coverage Results" MODIFIED="1584771524346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Problem7" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_in_test_return_k_last_py.coverage" NAME="Unittests in test_return_k_last.py Coverage Results" MODIFIED="1584822403242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Problem2" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_isUnique_TestIsUnique.coverage" NAME="Unittests for test-isUnique.TestIsUnique Coverage Results" MODIFIED="1584597902892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 1/Problem1" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_return_k_last_Test_test_return_k_last.coverage" NAME="Unittests for test_return_k_last.Test.test_return_k_last Coverage Results" MODIFIED="1584822369941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Problem2" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_in_test_zero_matrix_py.coverage" NAME="Unittests in test_zero_matrix.py Coverage Results" MODIFIED="1584776676435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Problem8" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_in_test_oneAway_py.coverage" NAME="Unittests in test_oneAway.py Coverage Results" MODIFIED="1584763668389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Problem5" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_remove_dups_Test_test_remove_dups_nobuffer.coverage" NAME="Unittests for test_remove_dups.Test.test_remove_dups_nobuffer Coverage Results" MODIFIED="1584822121062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Problem1" />
+    <SUITE FILE_PATH="coverage/CTCI$Unittests_for_test_rotate_matrix_Test_test_rotate_matrix.coverage" NAME="Unittests for test_rotate_matrix.Test.test_rotate_matrix Coverage Results" MODIFIED="1584771851269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Problem7" />
+  </component>
+</project>
